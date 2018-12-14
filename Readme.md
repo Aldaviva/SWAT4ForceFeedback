@@ -47,7 +47,7 @@ By immediately showing this information to the player, they are able to judge fo
 
 ![Suspect fires three times, officer fires twice, killing suspect with authorized use of deadly force](Images/authorized-gameplay-1.gif)
 
-The suspect sees the officer and fires three times (missing each time). Then officer fires once, knocking the gun out of the suspect's hand and wounding him, and then fires a second time, killing him. This use of deadly force is authorized because the suspect already fired at the officer.
+The suspect sees the officer and fires three times (missing each time). The officer fires once, knocking the gun out of the suspect's hand and wounding him, and then fires a second time, killing him. This use of deadly force is authorized because the suspect already fired at the officer.
 
 #### Unauthorized uses of force and deadly force
 
