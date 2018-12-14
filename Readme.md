@@ -33,7 +33,7 @@ The notification appears as red chat text, along with existing text notification
 The number 1 indicates that there is currently 1 count of unauthorized use of force in the mission. If you were to wound a different suspect, you would then see
 > Unauthorized use of force! (2)
 
-If you kill a suspect, you will instead see
+If you kill a suspect, you will instead see **Unauthorized use of deadly force! (1)**.
 
 ![Unauthorized use of deadly force! (1)](Images/unauthorized-deadly-force-notification.png)
 
