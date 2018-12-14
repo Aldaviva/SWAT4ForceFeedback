@@ -43,6 +43,8 @@ By immediately showing this information to the player, they are able to judge fo
 
 ### Demonstration
 
+See the 1920 × 1200 [body camera footage](Images/bodycam.mp4) of the below incidents.
+
 #### Authorized uses of force and deadly force
 
 ![Suspect fires three times, officer fires twice, killing suspect with authorized use of deadly force](Images/authorized-gameplay-1.gif)
