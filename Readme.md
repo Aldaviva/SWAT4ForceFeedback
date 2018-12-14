@@ -28,14 +28,14 @@ This repository contains a solution for the second problem, delayed negative fee
 
 The notification appears as red chat text, along with existing text notifications. It details the type of force (normal or deadly) and how many counts of the violation are currently outstanding in the mission. For example, if you or a human teammate wounds a suspect, you will see the **Unauthorized use of force! (1)** text in red on the left side of the screen.
 
-[Unauthorized use of force! (1)](Images/unauthorized-force-notification.png)
+![Unauthorized use of force! (1)](Images/unauthorized-force-notification.png)
 
 The number 1 indicates that there is currently 1 count of unauthorized use of force in the mission. If you were to wound a different suspect, you would then see
 > Unauthorized use of force! (2)
 
 If you kill a suspect, you will instead see
 
-[Unauthorized use of deadly force! (1)](Images/unauthorized-deadly-force-notification.png)
+![Unauthorized use of deadly force! (1)](Images/unauthorized-deadly-force-notification.png)
 
 ### Why does this help?
 
@@ -51,7 +51,7 @@ The suspect sees the officer and fires three times (missing each time). Then off
 
 #### Unauthorized uses of force and deadly force
 
-![Officer fires at and kills two suspects who did not shoot at or aim weapons at the officer](Images/unauthorized-gameplay-2.gif)
+![Officer fires at and kills two suspects who did not shoot at or aim weapons at the officer](Images/unauthorized-gameplay-1.gif)
 
 A suspect in a blue shirt is standing with a weapon raised, but does not see the officer and is not aiming the weapon at the officer. The officer fires once, killing the suspect, which was unauthorized because the suspect did not aim or fire at the officer.
 
