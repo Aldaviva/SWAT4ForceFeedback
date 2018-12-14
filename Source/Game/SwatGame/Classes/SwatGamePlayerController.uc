@@ -2021,6 +2021,12 @@ function OnSniperAlerted(SniperPawn AssociatedSniper)
 }
 // ----------------------
 
+function IssueMessage(string Message, name Type)
+{
+    Log("IssueMessage: "$Message);
+    ClientMessage(Message, Type);
+}
+
 //for debugging only!  Normal gameplay should call Interact()
 exec function Use()
 {

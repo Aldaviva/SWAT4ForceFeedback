@@ -476,7 +476,12 @@ function bool OnMessageRecieved( String Msg, Name Type )
             break;
 
 		case 'DebugMessage':
-                SendMessageToChat( Msg, Type );
+            SendMessageToChat( Msg, Type );
+            break;
+
+        case 'PenaltyIssued':
+            SendMessageToChat(Msg, Type);
+            break;
 
         default:
             return true;

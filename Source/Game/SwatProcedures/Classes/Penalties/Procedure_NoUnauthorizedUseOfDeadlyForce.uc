@@ -41,6 +41,8 @@ function OnPawnDied(Pawn Pawn, Actor Killer, bool WasAThreat)
     AssertNotInArray( Pawn, KilledEnemies, 'KilledEnemies' );
     Add( Pawn, KilledEnemies );
 
+    GetGame().SendGlobalMessage("Unauthorized use of deadly force! ("$KilledEnemies.length$")", 'PenaltyIssued');
+
     if (GetGame().DebugLeadership)
         log("[LEADERSHIP] "$class.name
             $" added "$Pawn.name

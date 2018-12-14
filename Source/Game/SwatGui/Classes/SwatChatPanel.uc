@@ -219,6 +219,10 @@ function MessageRecieved( String MsgText, Name Type, optional bool bDisplaySpeci
 				MsgText = FormatTextString( DebugMessageString, StrA );
             }
             break;
+
+        case 'PenaltyIssued':
+            MsgText = "[c=ff0000]"$StrA;
+            break;
             
     }
 

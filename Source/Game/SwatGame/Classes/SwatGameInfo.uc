@@ -110,6 +110,7 @@ delegate MissionObjectiveTimeExpired();
 function PreBeginPlay()
 {
     local SwatPlayerStart Point;
+    local SwatGamePlayerController PC;
 
     label = 'Game';
 
@@ -2366,4 +2367,14 @@ defaultproperties
     ScoringUpdateInterval=1.0
     
     ReconnectionTime=60.0
+}
+
+function SendGlobalMessage(string Message, name Type)
+{
+    local SwatGamePlayerController PC;
+
+    ForEach AllActors(class'SwatGamePlayerController', PC)
+    {
+        PC.IssueMessage(Message, Type);
+    }
 }

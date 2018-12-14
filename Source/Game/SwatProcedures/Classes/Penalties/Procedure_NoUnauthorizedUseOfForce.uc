@@ -58,6 +58,8 @@ function OnPawnIncapacitated(Pawn Pawn, Actor Incapacitator, bool WasAThreat)
     AssertNotInArray( Pawn, IncapacitatedEnemies, 'IncapacitatedEnemies' );
     Add( Pawn, IncapacitatedEnemies );
 
+    GetGame().SendGlobalMessage("Unauthorized use of force! ("$IncapacitatedEnemies.length$")", 'PenaltyIssued');
+
     if (GetGame().DebugLeadership)
         log("[LEADERSHIP] "$class.name
             $" added "$Pawn.name
