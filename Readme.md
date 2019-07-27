@@ -64,9 +64,9 @@ A second suspect in a gray shirt with no weapons held pretends to surrender and 
 A suspect is standing with no weapons held and does not see the officer, who fires once around the door jamb. The suspect is wounded and pulls out a weapon, and the officer fires a second time, killing the suspect. As with the previous suspect, this was recorded as an unauthorized use of deadly force because the suspect had not yet aimed their weapon at the officer, and the suspect was possibly acting in self-defense.
 
 ## Installation
-1. Clone this repository into the game's installation directory.
-	- `build.bat` and `Source` should be siblings of the existing `Content` directory.
-1. Run `build.bat`.
+1. From the repository's Releases page, download the latest `SWAT4ForceFeedback.zip` file.
+1. Extract this ZIP file into the `<SWAT 4 installation directory>\Content\System\` directory, replacing existing files.
+	- If you want to play on stock servers, back up the `*.u`, `Packages.md5`, and `Packages.txt` files.
 1. Repeat these steps in any other installations that you would like to connect to in multiplayer.
 
 ## Contributions
