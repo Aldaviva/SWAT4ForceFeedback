@@ -1,4 +1,4 @@
-SWAT4 Force Feedback
+SWAT 4 Force Feedback
 ===
 ## What is SWAT 4?
 
