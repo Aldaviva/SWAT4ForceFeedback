@@ -1,4 +1,6 @@
-![SWAT 4 Force Feedback](Images/logo.png)
+<p align="center">
+	<img src="Images/logo.png" alt="SWAT 4 Force Feedback" />
+</p>
 
 ## What is SWAT 4?
 
