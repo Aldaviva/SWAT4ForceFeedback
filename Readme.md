@@ -72,9 +72,11 @@ A suspect is standing with no weapons held and does not see the officer, who fir
 ## Contributions
 - Alec Loftus
 	- For introducing and sharing his excitement about SWAT 4 with me in 2005.
-- Andrew Brindamour
+- [Andrew Brindamour](https://github.com/abrindam)
 	- For playing SWAT 4 with me and being a great teammate.
 	- For inspiration, pair programming, and encouragement while co-developing this modification.
+- [Jihan Chao](https://github.com/onelittlefish)
+	- For providing one of the computers used to develop this modification.
 - [SWAT: Elite Force](https://github.com/eezstreet/SWATEliteForce)
 	- For showing how to edit to this "fantastic, if horrendously bugged product."
 - [Irrational Games](https://en.wikipedia.org/wiki/Irrational_Games)
