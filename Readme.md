@@ -1,5 +1,5 @@
-SWAT 4 Force Feedback
-===
+![SWAT 4 Force Feedback](Images/logo.png)
+
 ## What is SWAT 4?
 
 SWAT 4 is a game where you play as a SWAT police officer, arresting suspects and restraining hostages in a coordinated, cooperative effort with your fellow officers, who are either with humans in multiplayer or artificial intelligence in single-player.
